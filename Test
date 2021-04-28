@@ -1,6 +1,4 @@
 canWrite,parameter_name,parameter_description,parameter_sensitive,parameter_value,parameter_referencingComponents
-true,x,,false,1,[]
 true,y,,false,2,[]
 true,z,,false,3,[]
 true,h,,false,4,[]
-true,omar,,false,1000,[]
