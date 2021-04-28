@@ -2,3 +2,4 @@ canWrite,parameter_name,parameter_description,parameter_sensitive,parameter_valu
 true,y,,false,2,[]
 true,z,,false,3,[]
 true,h,,false,4,[]
+true,mina,,false,1000,[]
